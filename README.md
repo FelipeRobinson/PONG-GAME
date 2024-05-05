@@ -2,7 +2,7 @@
 ### FELIPE WITH ALURA<br>😮‍💨🕳️💯👻😈🥵
 <br>
 Felipe Robinson é o criador dos projetos 🤓 <br>
-Projeto criado inteiramente na plataforma online 'P5 JS'.
+Projeto criado na orientação do P5.JS, porém utilizei o VS Code (um conhecimento mais aprofundado.
 <br><br>
 
 Created course by **ALURA**👾💜

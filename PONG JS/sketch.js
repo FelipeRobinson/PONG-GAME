@@ -1,17 +1,21 @@
 // nossas VARIÁVEIS da BOLINHA
-let xBolinha = 300;
-let yBolinha = 200;
-let dBolinha = 10;
-let rBolinha = dBolinha / 2;
+var xBolinha = 300;
+var yBolinha = 200;
+var dBolinha = 10;
+var rBolinha = dBolinha / 2;
 
-let velBolinhaX = 8;
-let velBolinhaY = 8;
+var velBolinhaX = 8;
+var velBolinhaY = 8;
 
 // nossas VARIÁVEIS da RAQUETE AMIGA
-let xRaquet = 10
-let yRaquet = 150
-let largRaquete = 10
-let altRaquete = 90
+var xRaquet = 10
+var yRaquet = 150
+var largRaquete = 10
+var altRaquete = 90
+
+
+// nossas VARIÁVEIS do COLLIDE
+
 
 // nossas FUNCTIONS
 function setup() {
@@ -26,6 +30,7 @@ function draw() {
     verificacaoDaBorda();
     raquetola();
     moviementoRaquetola();
+    toqueRaquete();
     // aqui fizemos as refatorações do código, para aplicar melhor
 }
 
@@ -60,5 +65,11 @@ function moviementoRaquetola() {
     }
     if(keyIsDown(DOWN_ARROW)) {
         yRaquet += 10;
+    }
+}
+
+function toqueRaquete() {
+    if (xBolinha - rBolinha < xRaquet + largRaquete && yBolinha - rBolinha < yRaquet + altRaquete && yBolinha + rBolinha > yRaquet) {
+        velBolinhaX *= -1
     }
 }

@@ -11,7 +11,7 @@ Created course by **ALURA**👾💜
 Sobre mim:
 - Criador do projeto a seguir, com auxilio da plataforma [ALURA](https://alura.com.br)🌈
 - Estudante de DS no [COTUCA](https://cotuca.unicamp.br)📕⛔🌑
-- Estudante de Ensino Médio no  [CULTO A CIÊNCIA](https://cultoaciencia.net)📚⚠️☀️
+- Estudante de Ensino Médio no  [CULTO A CIÊNCIA]([https://cultoaciencia.net](http://www.cultoaciencia.net/pag_apresentacao.htm))📚⚠️☀️
 - O melhor 0 (zero) que o segundo bê (2ºB) já viu🏆0️⃣
 - Futuro desenvolvedor WEB🎮
 - Obtenho complexo de liderança🌟

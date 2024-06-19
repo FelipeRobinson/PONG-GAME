@@ -1,6 +1,8 @@
 # PONG-GAME
 ### FELIPE WITH ALURA<br>😮‍💨🕳️💯👻😈🥵
 <br>
+Um pequeno jogo de Ping-Pong estilo Atari, para pessoas se entreterem... 
+<br><br>
 Felipe Robinson é o criador dos projetos 🤓 <br>
 Projeto criado no software do P5.JS, porém utilizei o VS Code (um conhecimento mais aprofundado).
 <br><br>
